@@ -1,0 +1,11 @@
+vessel_id,vessel_name,vessel_type,flag_state,year_built,dwt_tons
+V001,MV Atlantic Pioneer,Bulk Carrier,Marshall Islands,2008,75000
+V002,MT Aegean Star,Tanker,Panama,2012,105000
+V003,MV Pacific Meridian,Container,Liberia,2015,42000
+V004,MT Black Sea Voyager,Tanker,Malta,2010,85000
+V005,MV Coral Horizon,Bulk Carrier,Bahamas,2006,58000
+V006,MV Nordic Condor,Container,Cyprus,2018,38000
+V007,MT Ocean Titan,Tanker,Marshall Islands,2014,115000
+V008,MV Southern Cross,Bulk Carrier,Panama,2009,68000
+V009,MV Adriatic Eagle,Container,Liberia,2020,45000
+V010,MT Perseus,Tanker,Malta,2016,92000
